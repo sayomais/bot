@@ -11,7 +11,7 @@ class Database:
     BOT_TABLE = "bot"
     BOT_KEYS_TABLE = "bot_keys"
     BOT_GROUPS = "groups"
-    ID_OWNER = '5579729798'
+    ID_OWNER = '6440962840'
 
     def __new__(cls):
         if cls._instance is None:
